@@ -1017,6 +1017,7 @@ version = "0.1.0"
 dependencies = [
  "log",
  "pretty_env_logger",
+ "serde_json",
  "tokio",
  "warp 0.3.3",
 ]
